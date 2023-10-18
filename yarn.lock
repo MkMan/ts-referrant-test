@@ -5,6 +5,24 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"actions@workspace:frontend/packages/components/actions":
+  version: 0.0.0-use.local
+  resolution: "actions@workspace:frontend/packages/components/actions"
+  languageName: unknown
+  linkType: soft
+
+"bff@workspace:bff":
+  version: 0.0.0-use.local
+  resolution: "bff@workspace:bff"
+  languageName: unknown
+  linkType: soft
+
+"cart@workspace:frontend/packages/pages/cart":
+  version: 0.0.0-use.local
+  resolution: "cart@workspace:frontend/packages/pages/cart"
+  languageName: unknown
+  linkType: soft
+
 "ts-referrant-test@workspace:.":
   version: 0.0.0-use.local
   resolution: "ts-referrant-test@workspace:."

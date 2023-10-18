@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "workspaces": [
+    "frontend/**",
+    "bff"
+  ],
   "devDependencies": {
     "typescript": "^5.2.2"
   },

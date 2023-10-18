@@ -1,0 +1,7 @@
+{
+  "name": "bff",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "healthcheck": "echo bff success!!!"
+  }
+}
