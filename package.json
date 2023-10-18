@@ -7,8 +7,12 @@
     "frontend/**",
     "bff"
   ],
+  "scripts": {
+    "autogen.reference-configuration": "node -r tsm $(yarn bin ts-referent) build"
+  },
   "devDependencies": {
     "ts-referent": "^1.1.0",
+    "tsm": "^2.3.0",
     "typescript": "^5.2.2"
   },
   "packageManager": "yarn@3.6.4"
